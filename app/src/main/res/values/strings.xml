@@ -1,0 +1,410 @@
+<resources>
+    <string name="app_name" translatable="false">Quiz star</string>
+    <string name="email" translatable="false">hsecmobile@gmail.com</string>
+    <string name="domain_name" translatable="false">http://134.209.226.163</string>
+    <string name="app_lang" translatable="false">en</string>
+
+    <!-- ADMOB DETAILS-->
+    <string name="ad_attribution" translatable="false">Ad</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- Facebook Login -->
+
+    <string name="facebook_app_id" translatable="false">812682186143838</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb812682186143838</string>
+
+
+    <!-- Google Login -->
+    <string name="google_client_id" translatable="false">504080460237-n4mj3pi6l4o9l2lrkhd027254j65vdat.apps.googleusercontent.com</string>
+    <string name="google_client_secret" translatable="false">hJZaa_heVypnz-pHeYCpbH5a</string>
+    <!-- Privacy Policy -->
+    <string name="privacy_policy" translatable="false"><![CDATA[ <p>Effective date: May 13, 2020</p>
+<p>Quiz ("us", "we", or "our") operates the Quiz mobile application (the "Service").</p>
+<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
+<h2>Information Collection And Use</h2>
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
+<h3>Types of Data Collected</h3>
+<h4>Personal Data</h4>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
+<ul>
+<li>Cookies and Usage Data</li>
+</ul>
+
+<h4>Usage Data</h4>
+<p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").</p>
+
+<h4>Tracking & Cookies Data</h4>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>Examples of Cookies we use:</p>
+<ul>
+    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+</ul>
+
+<h2>Use of Data</h2>
+
+<p>Currencies uses the collected data for various purposes:</p>
+<ul>
+    <li>To provide and maintain the Service</li>
+    <li>To notify you about changes to our Service</li>
+    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+    <li>To provide customer care and support</li>
+    <li>To provide analysis or valuable information so that we can improve the Service</li>
+    <li>To monitor the usage of the Service</li>
+    <li>To detect, prevent and address technical issues</li>
+</ul>
+
+<h2>Transfer Of Data</h2>
+<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside Morocco and choose to provide information to us, please note that we transfer the data, including Personal Data, to Morocco and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p>Quiz will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+
+<h2>Disclosure Of Data</h2>
+
+<h3>Legal Requirements</h3>
+<p>Quiz may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<ul>
+    <li>To comply with a legal obligation</li>
+    <li>To protect and defend the rights or property of Currencies</li>
+    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+    <li>To protect the personal safety of users of the Service or the public</li>
+    <li>To protect against legal liability</li>
+</ul>
+
+<h2>Security Of Data</h2>
+<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+
+<h2>Service Providers</h2>
+<p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+
+
+
+<h2>Links To Other Sites</h2>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party\'s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+
+
+<h2>Children\'s Privacy</h2>
+<p>Our Service does not address anyone under the age of 18 ("Children").</p>
+<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
+
+
+<h2>Changes To This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
+<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<ul>
+        <li>By email: hsecmobile@gmail.com</li>
+        </ul>]]></string>
+    <!-- Terms of use -->
+    <string name="terms_of_use" translatable="false"><![CDATA[ <p>Effective date: May 13, 2020</p>
+<p>Quiz use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
+<h2>Information Collection And Use</h2>
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
+<h3>Types of Data Collected</h3>
+<h4>Personal Data</h4>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
+<ul>
+<li>Cookies and Usage Data</li>
+</ul>
+
+<h4>Usage Data</h4>
+<p>When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").</p>
+
+<h4>Tracking & Cookies Data</h4>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>Examples of Cookies we use:</p>
+<ul>
+    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+</ul>
+
+<h2>Use of Data</h2>
+
+<p>Currencies uses the collected data for various purposes:</p>
+<ul>
+    <li>To provide and maintain the Service</li>
+    <li>To notify you about changes to our Service</li>
+    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+    <li>To provide customer care and support</li>
+    <li>To provide analysis or valuable information so that we can improve the Service</li>
+    <li>To monitor the usage of the Service</li>
+    <li>To detect, prevent and address technical issues</li>
+</ul>
+
+<h2>Transfer Of Data</h2>
+<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside Morocco and choose to provide information to us, please note that we transfer the data, including Personal Data, to Morocco and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p>Currencies will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+
+<h2>Disclosure Of Data</h2>
+
+<h3>Legal Requirements</h3>
+<p>Currencies may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<ul>
+    <li>To comply with a legal obligation</li>
+    <li>To protect and defend the rights or property of Currencies</li>
+    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+    <li>To protect the personal safety of users of the Service or the public</li>
+    <li>To protect against legal liability</li>
+</ul>
+
+<h2>Security Of Data</h2>
+<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+
+<h2>Service Providers</h2>
+<p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+
+
+
+<h2>Links To Other Sites</h2>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party\'s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+
+
+<h2>Children\'s Privacy</h2>
+<p>Our Service does not address anyone under the age of 18 ("Children").</p>
+<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
+
+
+<h2>Changes To This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
+<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<ul>
+        <li>By email: hsecmobile@gmail.com</li>
+        </ul>]]></string>
+
+    <!-- Settings | Don't Change This -->
+    <string name="my_preference" translatable="false">"IntroPref"</string>
+    <string name="my_preference_key" translatable="false">IntroPrefKey</string>
+    <string name="my_permissions" translatable="false">"hsecmobile.tech.Permissions"</string>
+    <string name="my_permissions_key" translatable="false">hsecmobile.tech.PermissionsKey</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!-- Login Activity -->
+    <string name="login_page_title">Welcome Back!</string>
+    <string name="login_page_subtitle">Login to continue your journey!</string>
+    <string name="login_new_member">New Member ?</string>
+    <string name="login_continue_with">- Or Continue with -</string>
+    <string name="email_register_error">Please Choose a valid Email !</string>
+    <string name="name_register_error">Please Choose a valid Name !</string>
+    <string name="password_register_error">Your Password should be more than 6 characters !</string>
+    <string name="email_login_error">Please Enter a valid Email !</string>
+
+
+    <!-- Activity Register -->
+    <string name="register_page_title">Already There!</string>
+    <string name="register_page_subtitle">Register to start your journey!</string>
+    <string name="register_olg_member">Already a member ?</string>
+    <string name="register_button">Register</string>
+    <string name="register_continue_with">- Or Register with -</string>
+
+    <!-- Intro Sliders -->
+    <string name="slider1_title">Welcome to our app</string>
+    <string name="slider1_description">Thank you for downloading our App.\nWe hope you like it! Enjoy.</string>
+    <string name="slider2_title">Choose a Category</string>
+    <string name="slider2_description">Choose a category to start.\nBe Ready, we will challenge you!</string>
+    <string name="slider3_title" >Collect Points</string>
+    <string name="slider3_description">Collect Points by passing all levels.\n(Easy, Medium, Hard, Expert)</string>
+    <string name="slider4_title">Earn Money</string>
+    <string name="slider4_description">Convert your points to cash money.\nYou Can Do it!</string>
+
+    <!-- Drawer Menu -->
+    <string name="drawer_menu_home">Home</string>
+    <string name="drawer_menu_profile">Profile</string>
+    <string name="drawer_menu_categories">Categories</string>
+    <string name="drawer_menu_leader">LeaderBoards</string>
+    <string name="drawer_menu_stats">Statistics</string>
+    <string name="drawer_menu_invite">Invite Friends</string>
+    <string name="drawer_menu_instructions">Instructions</string>
+    <string name="drawer_menu_privacy">Privacy Policy</string>
+    <string name="drawer_menu_terms">Terms of Use</string>
+    <string name="drawer_menu_rate_app">Rate this App</string>
+    <string name="drawer_menu_share_app">Share this App</string>
+    <string name="drawer_menu_report_bug">Report a Bug</string>
+    <string name="drawer_menu_contact">Contact us</string>
+    <string name="drawer_menu_exit">Exit</string>
+    <string name="drawer_menu_logout">Logout</string>
+
+    <!--==== Start Rating System ====-->
+    <string name="rate_dialog_title" translatable="false">How was your experience with us ?</string>
+    <string name="rate_dialog_cancel" translatable="false">Not Now</string>
+    <string name="rate_form_cancel" translatable="false">Remind Me Later</string>
+    <string name="rate_dialog_no" translatable="false">No, Thanks</string>
+    <string name="rate_dialog_submit" translatable="false">Submit Feedback</string>
+    <string name="rate_dialog_suggest" translatable="false">Suggestions</string>
+    <string name="rate_dialog_suggestion" translatable="false">Tell us how we can improve this app ..</string>
+    <!--==== End Rating System ====-->
+
+    <!-- Main Activity -->
+    <string name="home_fragment_view_all_btn">View all</string>
+    <string name="home_fragment_featured">Featured Categories</string>
+    <string name="home_fragment_top_10">TOP 15 Players</string>
+    <string name="home_fragment_top_banner">Choose a category\nStart a quiz\nCollect Points\nEarn Money!</string>
+
+    <!-- Category Activity -->
+    <string name="category_activity_choose_level">Please Choose a level</string>
+    <string name="category_activity_easy">Easy</string>
+    <string name="category_activity_medium">Medium</string>
+    <string name="category_activity_hard">Hard</string>
+    <string name="category_activity_expert">Expert</string>
+
+    <!-- Added FROM JAVA -->
+    <string name="java_easy_btn">EASY (Level Completed)</string>
+    <string name="java_medium_btn">MEDIUM (Level Completed)</string>
+    <string name="java_hard_btn">HARD (Level Completed)</string>
+    <string name="java_expert_btn">EXPERT (Level Completed)</string>
+    <string name="java_easy_no_question">EASY (No Questions)</string>
+    <string name="java_medium_no_question">MEDIUM (No Questions)</string>
+    <string name="java_hard_no_question">HARD (No Questions)</string>
+    <string name="java_expert_no_question">EXPERT (No Questions)</string>
+    <string name="java_min_withdraw">Min Withdraw : </string>
+    <string name="java_invite_friends_title">Send Referral</string>
+    <string name="java_invite_friends_description">Register with my referral code and get rewarded points to earn money : http://play.google.com/store/apps/details?id=</string>
+    <string name="java_question_toast">Please Choose an Answer!</string>
+    <string name="java_question_nice_job">Nice Job</string>
+    <string name="java_question_congrats">Congrats! Your answer is true, and Quiz is Finished</string>
+    <string name="java_question_show_score">Show My Score</string>
+    <string name="java_question_answer_true">Congrats! Your answer is true, Keep going.</string>
+    <string name="java_question_next_question">Next Question</string>
+    <string name="java_question_sorry">We Are Sorry</string>
+    <string name="java_question_false">Your Answer is False, and Quiz is Finished</string>
+    <string name="java_question_false_good_luck">Your Answer is False, Good Luck in next questions.</string>
+    <string name="java_question_questions_points">Question Points : </string>
+    <string name="java_question_request_withdrawal">Withdrawal Request Sent Successfully!</string>
+    <string name="java_question_score_success">Quiz Completed Successfully</string>
+    <string name="java_question_score_failed">You Failed on Quiz</string>
+    <string name="java_question_current_score">Current Score : </string>
+    <string name="java_question_time_finished_title">TIME Finished</string>
+    <string name="java_question_time_finished_message">We are Sorry, but the time is finished without submitting any answer so it will be considered as Wrong.
+ Also the quiz is Finished!</string>
+    <string name="java_question_time_finished">Finish!</string>
+    <string name="java_question_show_my_score">Show my score</string>
+    <string name="java_question_next_question_title">Next Question</string>
+
+    <!-- Activity Question -->
+    <string name="activity_question_submit">Submit</string>
+    <string name="activity_question_exit">Exit</string>
+    <string name="activity_question_reward">Reward Video</string>
+
+    <!-- Activity Score -->
+    <string name="activity_score_right">Right Answers : </string>
+    <string name="activity_score_false">False Answers : </string>
+    <string name="activity_score_wasted">Wasted Points : </string>
+    <string name="activity_score_earned">Earned Points : </string>
+    <string name="activity_score_percentage">Percentage : </string>
+    <string name="activity_score_go_home">HOME PAGE</string>
+
+    <!-- Activity Instructions -->
+    <string name="fragment_instructions_title">Instructions</string>
+    <string name="fragment_instructions_1">1 - Each question has different points depending on category and level.</string>
+    <string name="fragment_instructions_2">2 - The number of points for each person registered with your code is </string>
+    <string name="fragment_instructions_3">3 - Quiz will be marked as completed if you have answered more than 50% correctly.</string>
+    <string name="fragment_instructions_4">4 - If you failed a quiz, you can retry again.</string>
+    <string name="fragment_instructions_5">5 - You can\'t retry a completed quiz.</string>
+    <string name="fragment_instructions_6">6 - The number of seconds for each question is </string>
+    <string name="fragment_instructions_7">7 - You can use 50/50 option to remove 2 false answers, but the points will be reduced for 50%.</string>
+    <string name="fragment_instructions_8">8 - You can use rewarded video to remove 2 false answers, In this case the points will not be reduced.</string>
+    <string name="fragment_instructions_9">9 - If time is finished without submitting any answer, the answer will be considered as false.</string>
+    <string name="fragment_instructions_10">10 - Minimum amount to request a withdrawal is </string>
+    <string name="fragment_instructions_11">11 - If you use illegal methods to earn points (Spam) you will be banned from this App.</string>
+
+    <!-- Fragment Profile -->
+    <string name="fragment_profile_earnings">Earnings</string>
+    <string name="fragment_profile_withdrawals">Withdrawals</string>
+    <string name="fragment_profile_leader">LeaderBoard</string>
+    <string name="fragment_profile_stats">Statistics</string>
+    <string name="fragment_profile_logout">Logout</string>
+
+    <!-- Fragment Statistics -->
+    <string name="fragment_stats_title">Statistics</string>
+    <string name="fragment_stats_completed">Completed Quiz</string>
+    <string name="fragment_stats_referred">Referred Users</string>
+
+    <!-- Earnings Activity -->
+    <string name="earnings_activity_my_earnings">My Earnings</string>
+    <string name="earnings_activity_balance">Available Balance</string>
+    <string name="earnings_activity_refe_code">Your Referral Code</string>
+    <string name="earnings_activity_click_to_copy">Click here to Copy</string>
+    <string name="earnings_activity_request_with">Request Withdrawal</string>
+    <string name="earnings_activity_withdrawals_history">Withdrawals History</string>
+
+    <!-- Single Completed Quiz -->
+    <string name="single_completed_category">Category : </string>
+    <string name="single_completed_earned">Earned : </string>
+    <string name="single_completed_wasted">Wasted : </string>
+    <string name="single_completed_percentage">Percentage : </string>
+
+    <!-- Single Withdrawal -->
+    <string name="single_with_to">To : </string>
+    <string name="single_with_method">Method : </string>
+    <string name="single_with_status">Status : </string>
+    <string name="single_with_amount">Amount : </string>
+    <string name="single_with_points">Points : </string>
+    <string name="single_with_date">Date : </string>
+
+    <!-- Invite Friends Activity -->
+    <string name="invite_friends_activity_title">Invite Friends</string>
+    <string name="invite_friends_activity_refer_earn">Refer and Earn</string>
+    <string name="invite_friends_activity_refer_des1">Refer a friend and get</string>
+    <string name="invite_friends_activity_refer_des2">For each person registered with you code</string>
+    <string name="invite_friends_activity_ur_ref_code">Your Referral Code</string>
+    <string name="invite_friends_activity_tap_to_copy">Tap Here To Copy</string>
+    <string name="invite_friends_activity_ref_now">Refer Now</string>
+    <string name="withdrawals_empty">Withdrawals History Empty</string>
+
+    <!-- Activity Request Withdrawal -->
+    <string name="request_withdrawal_activity_title">Request Withdrawal</string>
+    <string name="request_withdrawal_activity_select">Select a Payment Method</string>
+    <string name="request_withdrawal_activity_payment_infos">Payment Informations</string>
+    <string name="request_withdrawal_activity_send_request">Send Request</string>
+
+    <!--==== Forgot Password ====-->
+    <string name="forgot_password_title">Password Forgotten ?</string>
+    <string name="forgot_password_email_hint">Enter your email</string>
+    <string name="forgot_password_email_title">Your Email</string>
+    <string name="forgot_password_button">Send Reset Code</string>
+    <string name="forgot_password_back">Back To Login</string>
+    <string name="forgot_password_enter_code">Enter Your Reset Code</string>
+    <string name="forgot_password_code">Reset Code Verification</string>
+    <string name="forgot_password_code_verify">Verify</string>
+    <string name="change_password_title">Choose a New Password</string>
+    <string name="change_password_enter_pass">Enter New Password</string>
+    <string name="change_password_confirm_pass">Confirm New Password</string>
+    <string name="save">Save New Password</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="referral_code_msg">Do You Have a Referral Code ?</string>
+    <string name="referral_code_hint">Enter Referral Code ...</string>
+    <string name="verify">VERIFY</string>
+    <string name="save_infos">SAVE</string>
+    <string name="verification_code">Enter verification code..</string>
+    <string name="verify_accouunt">Email Verification</string>
+    <string name="verify_account_message">Please Check Your Email and Copy the Received Code to Verify Your Account</string>
+    <string name="splash_connection_problem_title">Connection Problem</string>
+    <string name="splash_connection_problem_message">Please verify your internet connection status and retry again.</string>
+    <string name="splash_connection_problem_retry">RETRY</string>
+    <string name="permissions_title">Already there!</string>
+    <string name="permissions_description">We need some permissions\nTo unlock all application features!</string>
+    <string name="permissions_btn">Allow Permissions</string>
+    <string name="login_forgot_password">Forget Password ?</string>
+</resources>

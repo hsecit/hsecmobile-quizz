@@ -1,0 +1,204 @@
+<resources>
+
+    <!-- Category Activity -->
+    <string name="category_activity_choose_level">कृपया एक स्तर चुनें</string>
+    <string name="category_activity_easy">आसान</string>
+    <string name="category_activity_medium">मध्यम</string>
+    <string name="category_activity_hard">कठिन</string>
+    <string name="category_activity_expert">विशेषज्ञ</string>
+
+    <!-- Earnings Activity -->
+    <string name="earnings_activity_my_earnings">मेरी कमाई</string>
+    <string name="earnings_activity_balance">उपलब्ध शेष राशि</string>
+    <string name="earnings_activity_refe_code">आपका रेफरल कोड</string>
+    <string name="earnings_activity_click_to_copy">कॉपी करने के लिए यहां क्लिक करें</string>
+    <string name="earnings_activity_request_with">निकासी का अनुरोध करें</string>
+    <string name="earnings_activity_withdrawals_history">इतिहास वापस ले लिया</string>
+
+
+    <!-- Invite Friends Activity -->
+    <string name="invite_friends_activity_title">मित्रों को आमंत्रित करें</string>
+    <string name="invite_friends_activity_refer_earn">देखें और कमाएँ</string>
+    <string name="invite_friends_activity_refer_des1">एक दोस्त का संदर्भ लें और प्राप्त करें</string>
+    <string name="invite_friends_activity_refer_des2">आपके साथ पंजीकृत प्रत्येक व्यक्ति के लिए</string>
+    <string name="invite_friends_activity_ur_ref_code">आपका रेफरल कोड</string>
+    <string name="invite_friends_activity_tap_to_copy">कॉपी करने के लिए यहां टैप करें</string>
+    <string name="invite_friends_activity_ref_now">अब देखें</string>
+
+    <!-- Login Activity -->
+    <string name="login_page_title">वापसी पर स्वागत है!</string>
+    <string name="login_page_subtitle">अपनी यात्रा जारी रखने के लिए लॉगिन करें!</string>
+    <string name="login_new_member">क्या आप एक नए सदस्य हैं ?</string>
+    <string name="login_continue_with">- या जारी रखें -</string>
+    <string name="email_register_error">कृपया एक मान्य ईमेल चुनें!</string>
+    <string name="name_register_error">कृपया एक मान्य ईमेल चुनें!...</string>
+    <string name="password_register_error">आपका पासवर्ड 6 से अधिक अक्षर का होना चाहिए!</string>
+    <string name="email_login_error">कृपया अपना मान्य ईमेल लिखें !</string>
+
+    <!-- Drawer Menu -->
+    <string name="drawer_menu_home">घर</string>
+    <string name="drawer_menu_profile">प्रोफ़ाइल</string>
+    <string name="drawer_menu_categories">श्रेणियाँ</string>
+    <string name="drawer_menu_leader">लीडरबोर्ड</string>
+    <string name="drawer_menu_stats">आंकड़े</string>
+    <string name="drawer_menu_invite">मित्रों को आमंत्रित करें</string>
+    <string name="drawer_menu_instructions">अनुदेश</string>
+    <string name="drawer_menu_privacy">गोपनीयता नीति</string>
+    <string name="drawer_menu_terms">उपयोग की शर्तें</string>
+    <string name="drawer_menu_rate_app">इस ऐप्लिकेशन को रेट करे</string>
+    <string name="drawer_menu_share_app">इस एप को शेयर कीजिए</string>
+    <string name="drawer_menu_report_bug">गलती सूचित करें</string>
+    <string name="drawer_menu_exit">बाहर जाएं</string>
+    <string name="drawer_menu_contact">हमसे संपर्क करें</string>
+    <string name="drawer_menu_logout">लॉग आउट</string>
+
+    <!-- Activity Question -->
+    <string name="activity_question_submit">प्रस्तुत</string>
+    <string name="activity_question_exit">बाहर जाएं</string>
+    <string name="activity_question_reward">इनाम वीडियो</string>
+
+    <!-- Activity Register -->
+    <string name="register_page_title">पहले से ही वहां!</string>
+    <string name="register_page_subtitle">अपनी यात्रा शुरू करने के लिए रजिस्टर करें!</string>
+    <string name="register_olg_member">पहले से सदस्य हैं ?</string>
+    <string name="register_button">रजिस्टर करें</string>
+    <string name="register_continue_with">- या श्रेणी के साथ -</string>
+
+    <!-- Activity Request Withdrawal -->
+    <string name="request_withdrawal_activity_title">निकासी का अनुरोध करें</string>
+    <string name="request_withdrawal_activity_select">किसी भुगतान पद्धति का चयन करें</string>
+    <string name="request_withdrawal_activity_payment_infos">भुगतान इन्फोस</string>
+    <string name="request_withdrawal_activity_send_request">अनुरोध भेजा</string>
+
+    <!-- Activity Score -->
+    <string name="activity_score_right">सही जवाब : </string>
+    <string name="activity_score_false">गलत जवाब : </string>
+    <string name="activity_score_wasted">व्यर्थ अंक : </string>
+    <string name="activity_score_earned">अर्जित अंक : </string>
+    <string name="activity_score_percentage">प्रतिशत : </string>
+    <string name="activity_score_go_home">होम पेज</string>
+
+
+    <!-- Fragment Home -->
+    <string name="home_fragment_view_all_btn">सभी देखें</string>
+    <string name="home_fragment_featured">विशेष रुप से प्रदर्शित श्रेणियाँ</string>
+    <string name="home_fragment_top_10">शीर्ष 10 खिलाड़ी</string>
+    <string name="home_fragment_top_banner">कोई श्रेणी चुनें\nएक प्रश्नोत्तरी शुरू करें\nबिंदु एकत्रित करो\nपैसे कमाओ!</string>
+
+    <!-- Fragment Instructions -->
+    <string name="fragment_instructions_title">अनुदेश</string>
+    <string name="fragment_instructions_1">1 - श्रेणी और स्तर के आधार पर प्रत्येक प्रश्न के अलग-अलग अंक होते हैं।</string>
+    <string name="fragment_instructions_2">2 - आपके कोड के साथ पंजीकृत प्रत्येक व्यक्ति के लिए अंकों की संख्या है </string>
+    <string name="fragment_instructions_3">3 - यदि आप 50% से अधिक सही उत्तर दे चुके हैं तो प्रश्नोत्तरी को पूरा किया जाएगा।</string>
+    <string name="fragment_instructions_4">4 - यदि आप एक प्रश्नोत्तरी में विफल रहे हैं, तो आप फिर से प्रयास कर सकते हैं।</string>
+    <string name="fragment_instructions_5">5 - आप एक पूर्ण प्रश्नोत्तरी पुनः प्राप्त नहीं कर सकते.</string>
+    <string name="fragment_instructions_6">6 - प्रत्येक प्रश्न के लिए सेकंड की संख्या है </string>
+    <string name="fragment_instructions_7">7 - 2 गलत उत्तरों को हटाने के लिए आप 50/50 विकल्प का उपयोग कर सकते हैं, लेकिन अंक 50% तक कम हो जाएंगे।</string>
+    <string name="fragment_instructions_8">8 - आप 2 गलत उत्तरों को हटाने के लिए पुरस्कृत वीडियो का उपयोग कर सकते हैं, इस मामले में अंक कम नहीं होंगे।</string>
+    <string name="fragment_instructions_9">9 - यदि कोई जवाब प्रस्तुत किए बिना समय समाप्त हो जाता है, तो उत्तर को गलत माना जाएगा।</string>
+    <string name="fragment_instructions_10">10 - निकासी का अनुरोध करने के लिए न्यूनतम राशि </string>
+    <string name="fragment_instructions_11">11 - यदि आप अंक कमाने के लिए गैरकानूनी तरीकों का उपयोग करते हैं (स्पैम) तो आपको इस ऐप से प्रतिबंधित कर दिया जाएगा।</string>
+
+    <!-- Fragment Profile -->
+    <string name="fragment_profile_earnings">कमाई</string>
+    <string name="fragment_profile_withdrawals">निकासी</string>
+    <string name="fragment_profile_leader">लीडरबोर्ड</string>
+    <string name="fragment_profile_stats">आंकड़े</string>
+    <string name="fragment_profile_logout">लॉग आउट</string>
+
+    <!-- Fragment Statistics -->
+    <string name="fragment_stats_title">आंकड़े</string>
+    <string name="fragment_stats_completed">प्रश्नोत्तरी पूरी की</string>
+    <string name="fragment_stats_referred">उपयोगकर्ताओं को संदर्भित किया गया</string>
+
+    <!-- Single Completed Quiz -->
+    <string name="single_completed_category">वर्ग : </string>
+    <string name="single_completed_earned">अर्जित : </string>
+    <string name="single_completed_wasted">व्यर्थ : </string>
+    <string name="single_completed_percentage">प्रतिशत : </string>
+
+    <!-- Single Withdrawal -->
+    <string name="single_with_to">सेवा : </string>
+    <string name="single_with_method">तरीका : </string>
+    <string name="single_with_status">स्थिति : </string>
+    <string name="single_with_amount">रकम : </string>
+    <string name="single_with_points">अंक : </string>
+    <string name="single_with_date">दिनांक : </string>
+
+    <!-- Added FROM JAVA -->
+    <string name="java_easy_btn">आसान (स्तर पूरा)</string>
+    <string name="java_medium_btn">मेडम (स्तर पूर्ण)</string>
+    <string name="java_hard_btn">HARD (स्तर पूर्ण)</string>
+    <string name="java_expert_btn">विशेषज्ञ (स्तर पूर्ण)</string>
+    <string name="java_easy_no_question">आसान (कोई प्रश्न नहीं)</string>
+    <string name="java_medium_no_question">दवा (कोई प्रश्न नहीं)</string>
+    <string name="java_hard_no_question">हार्ड (कोई प्रश्न नहीं)</string>
+    <string name="java_expert_no_question">विशेषज्ञ (कोई सवाल नहीं)</string>
+    <string name="java_min_withdraw">न्यूनतम निकासी : </string>
+    <string name="java_invite_friends_title">रेफरल भेजें</string>
+    <string name="java_invite_friends_description">मेरे रेफरल कोड के साथ रजिस्टर करें और पैसे कमाने के लिए पुरस्कृत अंक प्राप्त करें : http://play.google.com/store/apps/details?id=</string>
+    <string name="java_question_toast">कृपया एक उत्तर चुनें!</string>
+    <string name="java_question_nice_job">अच्छी नौकरी</string>
+    <string name="java_question_congrats">बधाई! आपका उत्तर सत्य है, और प्रश्नोत्तरी समाप्त हो गई है</string>
+    <string name="java_question_show_score">मेरा स्कोर दिखाओ</string>
+    <string name="java_question_answer_true">बधाई! आपका उत्तर सही है, चलते रहें।</string>
+    <string name="java_question_next_question">अगला प्रश्न</string>
+    <string name="java_question_sorry">हमें खेद है</string>
+    <string name="java_question_false">आपका उत्तर गलत है, और प्रश्नोत्तरी समाप्त हो गई है</string>
+    <string name="java_question_false_good_luck">आपका जवाब गलत है, अगले सवालों में गुड लक।</string>
+    <string name="java_question_questions_points">प्रश्न अंक : </string>
+    <string name="java_question_request_withdrawal">निकासी अनुरोध सफलतापूर्वक भेजा गया!</string>
+    <string name="java_question_score_success">क्विज सफलतापूर्वक पूरा हुआ</string>
+    <string name="java_question_score_failed">आप प्रश्नोत्तरी में असफल रहे</string>
+    <string name="java_question_current_score">वर्तमान स्कोर : </string>
+    <string name="withdrawals_empty">निकासी इतिहास खाली</string>
+    <string name="java_question_time_finished_title">समय समाप्त हो गया</string>
+    <string name="java_question_time_finished_message">हमें खेद है, लेकिन बिना कोई जवाब दिए समय समाप्त हो गया है, इसलिए इसे गलत माना जाएगा।
+  इसके अलावा प्रश्नोत्तरी समाप्त हो गया है!</string>
+    <string name="java_question_time_finished">समाप्त!</string>
+    <string name="java_question_show_my_score">मेरा स्कोर दिखाओ</string>
+    <string name="java_question_next_question_title">अगला प्रश्न</string>
+
+    <!--==== Forgot Password ====-->
+    <string name="forgot_password_title">Password Forgotten ?</string>
+    <string name="forgot_password_email_hint">Enter your email</string>
+    <string name="forgot_password_email_title">Your Email</string>
+    <string name="forgot_password_button">Send Reset Code</string>
+    <string name="forgot_password_back">Back To Login</string>
+    <string name="forgot_password_enter_code">Enter Your Reset Code</string>
+    <string name="forgot_password_code">Reset Code Verification</string>
+    <string name="forgot_password_code_verify">Verify</string>
+    <string name="change_password_title">Choose a New Password</string>
+    <string name="change_password_enter_pass">Enter New Password</string>
+    <string name="change_password_confirm_pass">Confirm New Password</string>
+    <string name="save">Save New Password</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="referral_code_msg">Do You Have a Referral Code ?</string>
+    <string name="referral_code_hint">Enter Referral Code ...</string>
+    <string name="verify">VERIFY</string>
+    <string name="save_infos">SAVE</string>
+    <string name="verification_code">Enter verification code..</string>
+    <string name="verify_accouunt">Email Verification</string>
+    <string name="verify_account_message">Please Check Your Email and Copy the Received Code to Verify Your Account</string>
+    <string name="splash_connection_problem_title">Connection Problem</string>
+    <string name="splash_connection_problem_message">Please verify your internet connection status and retry again.</string>
+    <string name="splash_connection_problem_retry">RETRY</string>
+    <string name="permissions_title">पहले से ही वहां!</string>
+    <string name="permissions_description">हमें कुछ अनुमतियां चाहिए। सभी एप्लिकेशन सुविधाओं को अनलॉक करने के लिए!</string>
+    <string name="permissions_btn">Allow Permissions</string>
+    <string name="login_forgot_password">पासवर्ड भूल गए ?</string>
+    <!-- Intro Sliders -->
+    <string name="slider1_title">हमारे app में आपका स्वागत है</string>
+    <string name="slider1_description">हमारे ऐप को डाउनलोड करने के लिए धन्यवाद। उम्मीद है आपको पसंद आएगा! का आनंद लें।</string>
+    <string name="slider2_title">कोई श्रेणी चुनें</string>
+    <string name="slider2_description">शुरू करने के लिए एक श्रेणी चुनें। तैयार रहें, हम आपको चुनौती देंगे!</string>
+    <string name="slider3_title" >बिंदु एकत्रित करो</string>
+    <string name="slider3_description">सभी स्तरों को पारित करके अंक ले लीजिए। (आसान, मध्यम, कठोर, विशेषज्ञ)</string>
+    <string name="slider4_title">पैसे कमाओ</string>
+    <string name="slider4_description">अपने अंकों को नकद पैसे में बदलें। तुम कर सकते हो!</string>
+
+</resources>

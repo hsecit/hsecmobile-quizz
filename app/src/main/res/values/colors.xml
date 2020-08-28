@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#004B8D</color>-->
+    <color name="colorPrimary">@color/cgradient1</color>
+    <color name="colorPrimaryDark">#00305A</color>
+    <color name="colorAccent">#0074D9</color>
+    <color name="home_bg">#eaf5ff</color>
+
+    <!-- Sliders Colors -->
+    <color name="slider1">#037E8C</color>
+    <color name="slider2">#C44741</color>
+    <color name="slider3">#404040</color>
+    <color name="slider4">#34465d</color>
+    <color name="dotsActive">#FFFAFA</color>
+    <color name="dotsInactive">#b2b2b2</color>
+
+    <!-- Other Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="golden">#FABC03</color>
+    <color name="silver">#CD7F32</color>
+    <color name="bronze">#C0C0C0</color>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tech.hsecmobile.quizzstar">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="tech.hsecmobile.quizzstar.Manager.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.RequestWithdrawalActivity"></activity>
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.EditProfileActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.WithdrawalsHistoryActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.EarningsActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.ScoreActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.QuestionActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.CategoryActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.InviteFriendsActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.TermsOfUseActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.PrivacyActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.LeaderboardsActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.ProfileActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.CategoriesActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.InstructionsActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.StatisticsActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.ChangePasswordActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.SendResetLinkActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.VerifyRegistrationByEmail" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.ReferralCodeActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.PermissionActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.LoginActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.RegisterActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.SplashScreenActivity" />
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="tech.hsecmobile.quizzstar.Activity.MainActivity" />
+        <!---->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+        <!--    facebook    -->
+        <meta-data android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id"/>
+
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

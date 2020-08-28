@@ -1,0 +1,203 @@
+<resources>
+    <!-- Category Activity -->
+    <string name="category_activity_choose_level">Choisissez un niveau</string>
+    <string name="category_activity_easy">Facile</string>
+    <string name="category_activity_medium">Moyen</string>
+    <string name="category_activity_hard">Difficile</string>
+    <string name="category_activity_expert">Haut Niveau</string>
+
+    <!-- Earnings Activity -->
+    <string name="earnings_activity_my_earnings">Mes Gains</string>
+    <string name="earnings_activity_balance">Solde Disponible</string>
+    <string name="earnings_activity_refe_code">Votre Code de parrainage</string>
+    <string name="earnings_activity_click_to_copy">Cliquez içi pour copier</string>
+    <string name="earnings_activity_request_with">Demande de Retrait</string>
+    <string name="earnings_activity_withdrawals_history">Historique des retraits</string>
+
+
+    <!-- Invite Friends Activity -->
+    <string name="invite_friends_activity_title">Invitez Amis</string>
+    <string name="invite_friends_activity_refer_earn">Parrainer et gagner</string>
+    <string name="invite_friends_activity_refer_des1">Parrainez un ami et obtenez</string>
+    <string name="invite_friends_activity_refer_des2">Pour chaque personne enregistrée avec votre code</string>
+    <string name="invite_friends_activity_ur_ref_code">Votre Code de parrainage</string>
+    <string name="invite_friends_activity_tap_to_copy">Cliquez içi pour copier</string>
+    <string name="invite_friends_activity_ref_now">Parrainez</string>
+
+    <!-- Login Activity -->
+    <string name="login_page_title">Bienvenue!</string>
+    <string name="login_page_subtitle">Connectez-vous pour continuer votre aventure!</string>
+    <string name="login_new_member">êtes vous un nouveau membre?</string>
+    <string name="login_continue_with">- ou Continuez Avec -</string>
+    <string name="email_register_error">Merci de choisir un email valide!</string>
+    <string name="name_register_error">Merci de choisir un nom valide !</string>
+    <string name="password_register_error">Votre mot de passe doit contenir au moins 6 characters!</string>
+    <string name="email_login_error">Merci de choisir un email valide!</string>
+
+    <!-- Drawer Menu -->
+    <string name="drawer_menu_home">Accueil</string>
+    <string name="drawer_menu_profile">Profile</string>
+    <string name="drawer_menu_categories">Categories</string>
+    <string name="drawer_menu_leader">Classement</string>
+    <string name="drawer_menu_stats">Statistiques</string>
+    <string name="drawer_menu_invite">Invitez Amis</string>
+    <string name="drawer_menu_instructions">Instructions</string>
+    <string name="drawer_menu_privacy">Politique de confidentialité</string>
+    <string name="drawer_menu_terms">Conditions d\'utilisation</string>
+    <string name="drawer_menu_rate_app">Évaluer l\'application</string>
+    <string name="drawer_menu_share_app">Partagez l\'application</string>
+    <string name="drawer_menu_report_bug">Signalez un Bug</string>
+    <string name="drawer_menu_exit">Quitter</string>
+    <string name="drawer_menu_contact">Contactez-nous</string>
+    <string name="drawer_menu_logout">Se déconnecter</string>
+
+    <!-- Activity Question -->
+    <string name="activity_question_submit">Envoyez</string>
+    <string name="activity_question_exit">Quitter</string>
+    <string name="activity_question_reward">Video Rewards</string>
+
+    <!-- Activity Register -->
+    <string name="register_page_title">Déjà là!</string>
+    <string name="register_page_subtitle">Inscrivez-vous pour commencer votre aventure!</string>
+    <string name="register_olg_member">Déja un membre ?</string>
+    <string name="register_button">Inscrivez-vous</string>
+    <string name="register_continue_with">- Ou utilisez -</string>
+
+    <!-- Activity Request Withdrawal -->
+    <string name="request_withdrawal_activity_title">Demande de retrait</string>
+    <string name="request_withdrawal_activity_select">Selectionnez une méthode de paiement</string>
+    <string name="request_withdrawal_activity_payment_infos">Informations pour paiement</string>
+    <string name="request_withdrawal_activity_send_request">Envoyez votre demande</string>
+
+    <!-- Activity Score -->
+    <string name="activity_score_right">Réponses correctes : </string>
+    <string name="activity_score_false">Réponses fausses : </string>
+    <string name="activity_score_wasted">Points gaspillés : </string>
+    <string name="activity_score_earned">Points gagnés : </string>
+    <string name="activity_score_percentage">Pourcentage : </string>
+    <string name="activity_score_go_home">Accueil</string>
+
+    <!-- Fragment Home -->
+    <string name="home_fragment_view_all_btn">Voir Plus</string>
+    <string name="home_fragment_featured">Categories vedettes</string>
+    <string name="home_fragment_top_10">TOP 10 Joueurs</string>
+    <string name="home_fragment_top_banner">Choisissez Catégorie\nCommencez un Quiz\nCollectez des Points\nGagnez de l\'argent!</string>
+
+    <!-- Fragment Instructions -->
+    <string name="fragment_instructions_title">Instructions</string>
+    <string name="fragment_instructions_1">1 - Chaque question a des points différents selon la catégorie et le niveau.</string>
+    <string name="fragment_instructions_2">2 - Le nombre des points pour chaque personne enregistrée avec votre code est </string>
+    <string name="fragment_instructions_3">3 - Le Quiz sera marqué comme terminé si vous avez répondu correctement à plus de 50%.</string>
+    <string name="fragment_instructions_4">4 - Si vous avez échoué à un quiz, vous pouvez réessayer.</string>
+    <string name="fragment_instructions_5">5 - Vous ne pouvez pas réessayer un quiz terminé.</string>
+    <string name="fragment_instructions_6">6 - Le nombre des secondes pour chaque question est de </string>
+    <string name="fragment_instructions_7">7 - Vous pouvez utiliser l\'option 50/50 pour supprimer 2 fausses réponses, mais les points seront réduits de 50%.</string>
+    <string name="fragment_instructions_8">8 - Vous pouvez utiliser la vidéo récompensée pour supprimer 2 fausses réponses. Dans ce cas, les points ne seront pas réduits.</string>
+    <string name="fragment_instructions_9">9 - Si le temps est écoulé sans soumettre de réponse, la réponse sera considérée comme fausse.</string>
+    <string name="fragment_instructions_10">10 - Le montant minimum pour demander un retrait est de </string>
+    <string name="fragment_instructions_11">11 - Si vous utilisez des méthodes illégales pour gagner des points (Spam), vous serez banni de cette appli.</string>
+
+    <!-- Fragment Profile -->
+    <string name="fragment_profile_earnings">Gains</string>
+    <string name="fragment_profile_withdrawals">Retraits</string>
+    <string name="fragment_profile_leader">Classement</string>
+    <string name="fragment_profile_stats">Statistiques</string>
+    <string name="fragment_profile_logout">Se déconnecter</string>
+
+    <!-- Fragment Statistics -->
+    <string name="fragment_stats_title">Statistiques</string>
+    <string name="fragment_stats_completed">Quiz Completés</string>
+    <string name="fragment_stats_referred">Personnes Référées</string>
+
+    <!-- Single Completed Quiz -->
+    <string name="single_completed_category">Categorie : </string>
+    <string name="single_completed_earned">Gagné : </string>
+    <string name="single_completed_wasted">Gaspillé : </string>
+    <string name="single_completed_percentage">Pourcentage : </string>
+
+    <!-- Single Withdrawal -->
+    <string name="single_with_to">Pour : </string>
+    <string name="single_with_method">Méthode : </string>
+    <string name="single_with_status">Status : </string>
+    <string name="single_with_amount">Montant : </string>
+    <string name="single_with_points">Points : </string>
+    <string name="single_with_date">Date : </string>
+
+    <!-- Added FROM JAVA -->
+    <string name="java_easy_btn">FACILE (Niveau Validé)</string>
+    <string name="java_medium_btn">MOYEN (Niveau Validé)</string>
+    <string name="java_hard_btn">DIFFICILE (Niveau Validé)</string>
+    <string name="java_expert_btn">HAUT NIVEAU (Niveau Validé)</string>
+    <string name="java_easy_no_question">FACILE (Vide)</string>
+    <string name="java_medium_no_question">MOYEN (Vide)</string>
+    <string name="java_hard_no_question">DIFFICILE (Vide)</string>
+    <string name="java_expert_no_question">HAUT NIVEAU (Vide)</string>
+    <string name="java_min_withdraw">Min Retrait : </string>
+    <string name="java_invite_friends_title">Envoyé Parrainage</string>
+    <string name="java_invite_friends_description">Inscrivez-vous avec mon code de parrainage et obtenez des points récompensés pour gagner de l\'argent : http://play.google.com/store/apps/details?id=</string>
+    <string name="java_question_toast">Merci de choisir une réponse</string>
+    <string name="java_question_nice_job">Super</string>
+    <string name="java_question_congrats">Félicitations! Votre réponse est vraie et le quiz est terminé</string>
+    <string name="java_question_show_score">Afficher mon score</string>
+    <string name="java_question_answer_true">Félicitations! Votre réponse est vraie, continuez.</string>
+    <string name="java_question_next_question">Question Suivante</string>
+    <string name="java_question_sorry">Désolé</string>
+    <string name="java_question_false">Votre réponse est fausse, et le quiz est terminé</string>
+    <string name="java_question_false_good_luck">Votre réponse est fausse, Bonne Chance Dans la questions suivante.</string>
+    <string name="java_question_questions_points">Points : </string>
+    <string name="java_question_request_withdrawal">Demande de retrait envoyée avec succès!</string>
+    <string name="java_question_score_success">Quiz terminé avec succès</string>
+    <string name="java_question_score_failed">Vous avez échoué au quiz</string>
+    <string name="java_question_current_score">Score actuel :</string>
+    <string name="withdrawals_empty">Historique des retraits vide</string>
+    <string name="java_question_time_finished_title">Temps terminé</string>
+    <string name="java_question_time_finished_message">Nous sommes désolés, mais le temps est écoulé sans soumettre de réponse, il sera donc considéré comme incorrect.
+  Le quiz est également terminé!</string>
+    <string name="java_question_time_finished">Terminé!</string>
+    <string name="java_question_show_my_score">Afficher mon score</string>
+    <string name="java_question_next_question_title">Question suivante</string>
+
+    <!--==== Forgot Password ====-->
+    <string name="forgot_password_title">Password Forgotten ?</string>
+    <string name="forgot_password_email_hint">Enter your email</string>
+    <string name="forgot_password_email_title">Your Email</string>
+    <string name="forgot_password_button">Send Reset Code</string>
+    <string name="forgot_password_back">Back To Login</string>
+    <string name="forgot_password_enter_code">Enter Your Reset Code</string>
+    <string name="forgot_password_code">Reset Code Verification</string>
+    <string name="forgot_password_code_verify">Verify</string>
+    <string name="change_password_title">Choose a New Password</string>
+    <string name="change_password_enter_pass">Enter New Password</string>
+    <string name="change_password_confirm_pass">Confirm New Password</string>
+    <string name="save">Save New Password</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="referral_code_msg">Do You Have a Referral Code ?</string>
+    <string name="referral_code_hint">Enter Referral Code ...</string>
+    <string name="verify">VERIFY</string>
+    <string name="save_infos">SAVE</string>
+    <string name="verification_code">Enter verification code..</string>
+    <string name="verify_accouunt">Email Verification</string>
+    <string name="verify_account_message">Please Check Your Email and Copy the Received Code to Verify Your Account</string>
+    <string name="splash_connection_problem_title">Connection Problem</string>
+    <string name="splash_connection_problem_message">Please verify your internet connection status and retry again.</string>
+    <string name="splash_connection_problem_retry">RETRY</string>
+    <string name="permissions_title">Already there!</string>
+    <string name="permissions_description">We need some permissions\nTo unlock all application features!</string>
+    <string name="permissions_btn">Allow Permissions</string>
+    <string name="login_forgot_password">Forget Password ?</string>
+    <!-- Intro Sliders -->
+    <string name="slider1_title">Welcome to our app</string>
+    <string name="slider1_description">Thank you for downloading our App.\nWe hope you like it! Enjoy.</string>
+    <string name="slider2_title">Choose a Category</string>
+    <string name="slider2_description">Choose a category to start.\nBe Ready, we will challenge you!</string>
+    <string name="slider3_title" >Collect Points</string>
+    <string name="slider3_description">Collect Points by passing all levels.\n(Easy, Medium, Hard, Expert)</string>
+    <string name="slider4_title">Earn Money</string>
+    <string name="slider4_description">Convert your points to cash money.\nYou Can Do it!</string>
+
+
+</resources>

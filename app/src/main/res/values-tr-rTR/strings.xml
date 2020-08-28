@@ -1,0 +1,203 @@
+<resources>
+    <!-- Category Activity -->
+    <string name="category_activity_choose_level">Seviye Seç</string>
+    <string name="category_activity_easy">Kolay</string>
+    <string name="category_activity_medium">Orta</string>
+    <string name="category_activity_hard">Zor</string>
+    <string name="category_activity_expert">Uzman !!</string>
+
+    <!-- Earnings Activity -->
+    <string name="earnings_activity_my_earnings">Kazanç</string>
+    <string name="earnings_activity_balance">Çekilebilir Bakiye</string>
+    <string name="earnings_activity_refe_code">Referans Kodu</string>
+    <string name="earnings_activity_click_to_copy">Kopyala</string>
+    <string name="earnings_activity_request_with">Ödeme Talep Et</string>
+    <string name="earnings_activity_withdrawals_history">Ödeme Geçmişi</string>
+
+
+    <!-- Invite Friends Activity -->
+    <string name="invite_friends_activity_title">Arkadaşını Davet Et</string>
+    <string name="invite_friends_activity_refer_earn">Tanıt ve Kazan</string>
+    <string name="invite_friends_activity_refer_des1">Arkadaşını Davet Et ve</string>
+    <string name="invite_friends_activity_refer_des2">Referansların</string>
+    <string name="invite_friends_activity_ur_ref_code">Referans Kodun</string>
+    <string name="invite_friends_activity_tap_to_copy">Kopyala</string>
+    <string name="invite_friends_activity_ref_now">Davet Et</string>
+
+    <!-- Login Activity -->
+    <string name="login_page_title">Hoş Geldin!</string>
+    <string name="login_page_subtitle">Giriş Yap ve Kazanmaya Başla!</string>
+    <string name="login_new_member">E Mail İle Üye Ol</string>
+    <string name="login_continue_with">- Yada Bunlardan Biriyle Giriş Yapın -</string>
+    <string name="email_register_error">Lütfen Geçerli Bir EMail Girin !</string>
+    <string name="name_register_error">Lütfen Geçerli Bir İsim Girin !</string>
+    <string name="password_register_error">Şifreniz 6 Karakterden Uzun Olmalı !</string>
+    <string name="email_login_error">Lütfen Geçerli Bir EMail Girin !</string>
+
+    <!-- Drawer Menu -->
+    <string name="drawer_menu_home">Anasayfa</string>
+    <string name="drawer_menu_profile">Profil</string>
+    <string name="drawer_menu_categories">Quizler</string>
+    <string name="drawer_menu_leader">Sıralama</string>
+    <string name="drawer_menu_stats">İstatistikler</string>
+    <string name="drawer_menu_invite">Arkadaşını Davet Et</string>
+    <string name="drawer_menu_instructions">Talimatlar</string>
+    <string name="drawer_menu_privacy">Gizlilik Politikası</string>
+    <string name="drawer_menu_terms">Kullanım Şartları</string>
+    <string name="drawer_menu_rate_app">Uygulamaya Puan Ver</string>
+    <string name="drawer_menu_share_app">Uygulamayı Paylaş</string>
+    <string name="drawer_menu_report_bug">Sorun Bildir</string>
+    <string name="drawer_menu_contact">İletişim</string>
+    <string name="drawer_menu_exit">Çıkış</string>
+    <string name="drawer_menu_logout">Çıkış</string>
+
+    <!-- Activity Question -->
+    <string name="activity_question_submit">Eminim, Son Kararım</string>
+    <string name="activity_question_exit">Çıkış</string>
+    <string name="activity_question_reward">İzle - Yarı Yarıya Joker</string>
+
+    <!-- Activity Register -->
+    <string name="register_page_title">Sabret, Az Kaldı!</string>
+    <string name="register_page_subtitle">Kazanmak İçin Kayıt Ol!</string>
+    <string name="register_olg_member">Kaydım Var</string>
+    <string name="register_button">Kayıt Ol</string>
+    <string name="register_continue_with">- Yada Bunlardan Biriyle Kayıt Ol -</string>
+
+    <!-- Activity Request Withdrawal -->
+    <string name="request_withdrawal_activity_title">Ödeme Talep Et</string>
+    <string name="request_withdrawal_activity_select">Ödeme Yöntemi Seç</string>
+    <string name="request_withdrawal_activity_payment_infos">Ödeme Bilgileri</string>
+    <string name="request_withdrawal_activity_send_request">Ödeme Talebi Gönder</string>
+
+    <!-- Activity Score -->
+    <string name="activity_score_right">Doğru Cevaplar : </string>
+    <string name="activity_score_false">Yanlış Cevaplar : </string>
+    <string name="activity_score_wasted">Kazanılamayan Puanlar : </string>
+    <string name="activity_score_earned">Kazanılan Puanlar : </string>
+    <string name="activity_score_percentage">Yüzde : </string>
+    <string name="activity_score_go_home">Ana Sayfa</string>
+
+    <!-- Fragment Home -->
+    <string name="home_fragment_view_all_btn">Hepsi</string>
+    <string name="home_fragment_featured">Öne Çıkan Quizler</string>
+    <string name="home_fragment_top_10">En İyi 10 Yarışmacı</string>
+    <string name="home_fragment_top_banner">Yarışma Seç\nSorulara Başla\nPuanları Topla\nPara Kazan!</string>
+
+    <!-- Fragment Instructions -->
+    <string name="fragment_instructions_title">Talimatlar</string>
+    <string name="fragment_instructions_1">1 - Sorular quizler ve seviyeye göre farklı puan değerinde olabilir.</string>
+    <string name="fragment_instructions_2">2 - Referans kodunla üye olan her kullanıcı için kazanacağın puan :  </string>
+    <string name="fragment_instructions_3">3 - Yarısını doğru cevapladığın yarışma "Tamamlandı" olarak işaretlenir.</string>
+    <string name="fragment_instructions_4">4 - Tamamlayamadığın Quize tekrar başlayabilirsin.</string>
+    <string name="fragment_instructions_5">5 - Tamamlanmış Quize tekrar başlayamazsın.</string>
+    <string name="fragment_instructions_6">6 - Her soru için cevaplamak için sahip olduğun saniye :  </string>
+    <string name="fragment_instructions_7">7 - Doğru cevaptan kazanağın puanın yarısı karşılığında 2 yanlış cevabı silebilirsin.</string>
+    <string name="fragment_instructions_8">8 - Ödüllü video izleyerek 2 yanlış cevabı silebilirsin, bu durumda doğru cevap karşılığı alacağın puan değişmez.</string>
+    <string name="fragment_instructions_9">9 - Soruya cevap veremeden süren dolarsa cevabın yanlış olarak kabul edilir.</string>
+    <string name="fragment_instructions_10">10 - Puan/Kazanç oranı sürekli değişir. Puan dönüşümü yapacağın sırada ki Puan/Kazanç oranına göre dönüşüm yaparsın. Minimum ödeme talep edebileceğin miktar : </string>
+    <string name="fragment_instructions_11">11 - İllegal yollarla puan kazanmaya çalışırsan hesabın banlanır.</string>
+
+
+    <!-- Fragment Profile -->
+    <string name="fragment_profile_earnings">Kazançlar</string>
+    <string name="fragment_profile_withdrawals">Ödemeler</string>
+    <string name="fragment_profile_leader">Sıralama</string>
+    <string name="fragment_profile_stats">İstatistikler</string>
+    <string name="fragment_profile_logout">Çıkış</string>
+
+    <!-- Fragment Statistics -->
+    <string name="fragment_stats_title">İstatistikler</string>
+    <string name="fragment_stats_completed">Tamamlanan Quizler</string>
+    <string name="fragment_stats_referred">Referanslar</string>
+
+    <!-- Single Completed Quiz -->
+    <string name="single_completed_category">Quiz : </string>
+    <string name="single_completed_earned">Kazanılan : </string>
+    <string name="single_completed_wasted">Kaybedilen : </string>
+    <string name="single_completed_percentage">Yüzde : </string>
+
+    <!-- Single Withdrawal -->
+    <string name="single_with_to">To : </string>
+    <string name="single_with_method">Yöntem : </string>
+    <string name="single_with_status">Durum : </string>
+    <string name="single_with_amount">Miktar : </string>
+    <string name="single_with_points">Puanlar : </string>
+    <string name="single_with_date">Tarih : </string>
+
+    <!-- Added FROM JAVA -->
+    <string name="java_easy_btn">Kolay (Seviye Tamamlandı)</string>
+    <string name="java_medium_btn">Orta (Seviye Tamamlandı)</string>
+    <string name="java_hard_btn">Zor (Seviye Tamamlandı)</string>
+    <string name="java_expert_btn">Uzman (Seviye Tamamlandı)</string>
+    <string name="java_easy_no_question">Kolay (Soru Yok)</string>
+    <string name="java_medium_no_question">Orta (Soru Yok)</string>
+    <string name="java_hard_no_question">Zor (Soru Yok)</string>
+    <string name="java_expert_no_question">Uzman (Soru Yok)</string>
+    <string name="java_min_withdraw">Min. Ödeme : </string>
+    <string name="java_invite_friends_title">Referans Gönder</string>
+    <string name="java_invite_friends_description">Referans kodumla üye ol ve para kazanmaya başla : http://play.google.com/store/apps/details?id=</string>
+    <string name="java_question_toast">Lütfen bir cevap seçin!</string>
+    <string name="java_question_nice_job">Harikasın !!!</string>
+    <string name="java_question_congrats">Tebrikler, cevabın doğru, bu yarışma bitti.</string>
+    <string name="java_question_show_score">Puanımı Göster</string>
+    <string name="java_question_answer_true">Tebrikler! Cevabın Doğru, Devam Et.</string>
+    <string name="java_question_next_question">Diğer Soru</string>
+    <string name="java_question_sorry">Üzgünüz :(</string>
+    <string name="java_question_false">Cevabın yanlış, bu yarışma bitti.</string>
+    <string name="java_question_false_good_luck">Cevabın yanlış, diğer sorularda bol şans.</string>
+    <string name="java_question_questions_points">Sorunun Puanı : </string>
+    <string name="java_question_request_withdrawal">Ödeme Talebi Gönderildi!</string>
+    <string name="java_question_score_success">Quizi Başarıyla Tamamlandı</string>
+    <string name="java_question_score_failed">Başaramadın !</string>
+    <string name="java_question_current_score">Puanın : </string>
+    <string name="withdrawals_empty">Para Çekme Geçmişi Boş</string>
+    <string name="java_question_time_finished_title">Zaman bitti</string>
+    <string name="java_question_time_finished_message">Maalesef, herhangi bir cevap göndermeden zaman bitti, böylece Yanlış olarak kabul edilecek.
+  Ayrıca sınav Bitti!</string>
+    <string name="java_question_time_finished">Bitiş</string>
+    <string name="java_question_show_my_score">Puanımı göster</string>
+    <string name="java_question_next_question_title">Sonraki soru</string>
+
+    <!--==== Forgot Password ====-->
+    <string name="forgot_password_title">Password Forgotten ?</string>
+    <string name="forgot_password_email_hint">Enter your email</string>
+    <string name="forgot_password_email_title">Your Email</string>
+    <string name="forgot_password_button">Send Reset Code</string>
+    <string name="forgot_password_back">Back To Login</string>
+    <string name="forgot_password_enter_code">Enter Your Reset Code</string>
+    <string name="forgot_password_code">Reset Code Verification</string>
+    <string name="forgot_password_code_verify">Verify</string>
+    <string name="change_password_title">Choose a New Password</string>
+    <string name="change_password_enter_pass">Enter New Password</string>
+    <string name="change_password_confirm_pass">Confirm New Password</string>
+    <string name="save">Save New Password</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="referral_code_msg">Do You Have a Referral Code ?</string>
+    <string name="referral_code_hint">Enter Referral Code ...</string>
+    <string name="verify">VERIFY</string>
+    <string name="save_infos">SAVE</string>
+    <string name="verification_code">Enter verification code..</string>
+    <string name="verify_accouunt">Email Verification</string>
+    <string name="verify_account_message">Please Check Your Email and Copy the Received Code to Verify Your Account</string>
+    <string name="splash_connection_problem_title">Connection Problem</string>
+    <string name="splash_connection_problem_message">Please verify your internet connection status and retry again.</string>
+    <string name="splash_connection_problem_retry">RETRY</string>
+    <string name="permissions_title">Already there!</string>
+    <string name="permissions_description">We need some permissions\nTo unlock all application features!</string>
+    <string name="permissions_btn">Allow Permissions</string>
+    <string name="login_forgot_password">Forget Password ?</string>
+    <!-- Intro Sliders -->
+    <string name="slider1_title">Welcome to our app</string>
+    <string name="slider1_description">Thank you for downloading our App.\nWe hope you like it! Enjoy.</string>
+    <string name="slider2_title">Choose a Category</string>
+    <string name="slider2_description">Choose a category to start.\nBe Ready, we will challenge you!</string>
+    <string name="slider3_title" >Collect Points</string>
+    <string name="slider3_description">Collect Points by passing all levels.\n(Easy, Medium, Hard, Expert)</string>
+    <string name="slider4_title">Earn Money</string>
+    <string name="slider4_description">Convert your points to cash money.\nYou Can Do it!</string>
+
+</resources>

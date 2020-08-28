@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center"
+    tools:context="tech.hsecmobile.quizzstar.Activity.SplashScreenActivity"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginBottom="20dp"
+        android:src="@mipmap/ic_launcher_round"/>
+    <ProgressBar
+        android:id="@+id/splash_progressbar"
+        android:layout_below="@id/splash_image"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:backgroundTint="@color/colorAccent"/>
+</RelativeLayout>

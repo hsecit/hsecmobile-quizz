@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:iconTint="#000000"
+            android:icon="@drawable/home"
+            android:title="@string/drawer_menu_home"/>
+        <item android:id="@+id/profile"
+            android:icon="@drawable/profile"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_profile"/>
+        <item android:id="@+id/categories"
+            android:icon="@drawable/categories"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_categories"/>
+        <item android:id="@+id/ranking"
+            android:title="@string/drawer_menu_leader"
+            android:iconTint="#000000"
+            android:icon="@drawable/leaderboard"/>
+        <item android:id="@+id/statistics"
+            android:icon="@drawable/statistics"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_stats"/>
+        <item android:id="@+id/invite_friends"
+            android:icon="@drawable/invite_friends"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_invite"/>
+        <item android:id="@+id/instructions"
+            android:icon="@drawable/ic_instructions"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_instructions"/>
+        <item android:id="@+id/privacy"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_privacy"
+            android:icon="@drawable/privacy"/>
+        <item android:id="@+id/terms_of_use"
+            android:iconTint="#000000"
+            android:title="@string/drawer_menu_terms"
+            android:icon="@drawable/terms_of_use"/>
+    </group>
+    <item android:title="Application">
+        <menu>
+            <item android:id="@+id/rate"
+                android:iconTint="#000000"
+                android:icon="@drawable/rate"
+                android:title="@string/drawer_menu_rate_app"/>
+            <item android:id="@+id/share"
+                android:iconTint="#000000"
+                android:icon="@drawable/share"
+                android:title="@string/drawer_menu_share_app"/>
+            <item android:id="@+id/report"
+                android:iconTint="#000000"
+                android:icon="@drawable/bug"
+                android:title="@string/drawer_menu_report_bug"
+                />
+            <item android:id="@+id/contact_us"
+                android:icon="@drawable/email"
+                android:title="@string/drawer_menu_contact"/>
+            <item android:id="@+id/exit"
+                android:icon="@drawable/exit"
+                android:title="@string/drawer_menu_exit"/>
+        </menu>
+    </item>
+</menu>

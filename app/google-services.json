@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610450732606",
+    "firebase_url": "https://quizznotifications.firebaseio.com",
+    "project_id": "quizznotifications",
+    "storage_bucket": "quizznotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610450732606:android:3fd19d89af2bbe0eedc36f",
+        "android_client_info": {
+          "package_name": "tech.hsecmobile.quizzstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610450732606-4jn9dq6rvo6grln7cj4n6qalgns6rsjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8QLNFls394q7BICMoWbfOEsWqUIhXGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610450732606-4jn9dq6rvo6grln7cj4n6qalgns6rsjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
