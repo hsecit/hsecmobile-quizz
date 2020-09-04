@@ -24,7 +24,7 @@
         android:layout_above="@id/need_permissions"
         android:gravity="center"
         android:contentDescription="@string/permissions_btn"
-        android:src="@drawable/ic_shield"/>
+        android:src="shield"/>
     <TextView
         android:id="@+id/need_permissions"
         android:textSize="16sp"

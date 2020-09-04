@@ -11,8 +11,8 @@
     <ImageView
         android:id="@+id/send_image_complete"
         android:layout_width="match_parent"
-        android:layout_height="130dp"
-        android:src="@drawable/change_password"/>
+        android:layout_height="238dp"
+        android:src="@drawable/change_password" />
 
     <TextView
         android:id="@+id/send_title"

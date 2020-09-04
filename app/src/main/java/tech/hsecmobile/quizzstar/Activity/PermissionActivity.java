@@ -67,8 +67,8 @@ public class PermissionActivity extends AppCompatActivity implements ActivityCom
     private void requestPermission() {
         Log.d("versioncode", String.valueOf(Build.VERSION.SDK_INT)+"--->"+ String.valueOf(Build.VERSION_CODES.M));
         Log.d("versioncode", String.valueOf(Build.VERSION.SDK_INT)+"--->"+ String.valueOf(Build.VERSION_CODES.Q));
-
-        if (Build.VERSION.SDK_INT != Build.VERSION_CODES.Q) {
+// here muqsts check if the version of build com with the version of sdk
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
             ActivityCompat.requestPermissions(PermissionActivity.this, new String[] {
                     Manifest.permission.READ_EXTERNAL_STORAGE,
                     Manifest.permission.WRITE_EXTERNAL_STORAGE}, REQUEST_WRITE_PERMISSION);
