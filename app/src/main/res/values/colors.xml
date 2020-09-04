@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!--    <color name="colorPrimary">#004B8D</color>-->
-    <color name="colorPrimary">@color/cgradient1</color>
+    <color name="colorPrimary">#004B8D</color>
     <color name="colorPrimaryDark">#00305A</color>
     <color name="colorAccent">#0074D9</color>
     <color name="home_bg">#eaf5ff</color>
-
+    <color name="colorGradient">#EE3A88</color>
+    <color name="colorGradientDark">#c60055</color>
+<!--    background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);-->
     <!-- Sliders Colors -->
     <color name="slider1">#037E8C</color>
     <color name="slider2">#C44741</color>

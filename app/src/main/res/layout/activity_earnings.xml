@@ -13,7 +13,7 @@
         android:id="@+id/toolbar_earnings"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/colorPrimaryDark"
+        android:background="@drawable/cgradient1"
         app:titleTextColor="#ffffff"
         app:subtitleTextColor="#ffffff"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
