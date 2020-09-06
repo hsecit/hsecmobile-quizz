@@ -17,9 +17,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="80dp"
-        android:gravity="center"
-        android:src="@drawable/slide1"/>
+        android:src="@drawable/spone"/>
     <TextView
         android:textSize="15sp"
         android:padding="10dp"
