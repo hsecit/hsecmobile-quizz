@@ -455,7 +455,7 @@ public class CategoryActivity extends AppCompatActivity {
                     if (success.equals("noQuestions")) {
                         easyBtn.setEnabled(false);
                         easyBtn.setText(getString(R.string.java_easy_no_question));
-                        easyBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        easyBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                         easyBtn.setTextSize(18);
                     }
                 } catch (JSONException e) {
@@ -516,7 +516,7 @@ public class CategoryActivity extends AppCompatActivity {
                         mediumBtn.setEnabled(false);
                         mediumBtn.setText(getString(R.string.java_medium_no_question));
                         mediumBtn.setTextSize(18);
-                        mediumBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        mediumBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -576,7 +576,7 @@ public class CategoryActivity extends AppCompatActivity {
                         hardBtn.setEnabled(false);
                         hardBtn.setText(getString(R.string.java_hard_no_question));
                         hardBtn.setTextSize(18);
-                        hardBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        hardBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -635,7 +635,7 @@ public class CategoryActivity extends AppCompatActivity {
                         expertBtn.setEnabled(false);
                         expertBtn.setText(getString(R.string.java_expert_no_question));
                         expertBtn.setTextSize(18);
-                        expertBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        expertBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -694,7 +694,7 @@ public class CategoryActivity extends AppCompatActivity {
                     if (success.equals("noQuestions")) {
                         easyBtn.setEnabled(false);
                         easyBtn.setText(getString(R.string.java_easy_no_question));
-                        easyBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        easyBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                         easyBtn.setTextSize(18);
                     }
                 } catch (JSONException e) {
@@ -754,7 +754,7 @@ public class CategoryActivity extends AppCompatActivity {
                         mediumBtn.setEnabled(false);
                         mediumBtn.setText(getString(R.string.java_medium_no_question));
                         mediumBtn.setTextSize(18);
-                        mediumBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        mediumBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -813,7 +813,7 @@ public class CategoryActivity extends AppCompatActivity {
                         hardBtn.setEnabled(false);
                         hardBtn.setText(getString(R.string.java_hard_no_question));
                         hardBtn.setTextSize(18);
-                        hardBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        hardBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -871,7 +871,7 @@ public class CategoryActivity extends AppCompatActivity {
                         expertBtn.setEnabled(false);
                         expertBtn.setText(getString(R.string.java_expert_no_question));
                         expertBtn.setTextSize(18);
-                        expertBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty, 0, 0, 0);
+                        expertBtn.setCompoundDrawablesWithIntrinsicBounds( R.drawable.empty_stats, 0, 0, 0);
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
